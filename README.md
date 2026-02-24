@@ -1,4 +1,4 @@
-# FunctionalTreat – Data Analyzer and Transformer
+# FunctionalTreat – Data Analyzer and Transformer (Python Project)
 
 ## Project Overview
 
