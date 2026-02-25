@@ -1,120 +1,105 @@
-# FunctionalTreat – Data Analyzer and Transformer (Python Project)
+# FunctionalTreat – Data Analyzer & Transformer (Python)
 
 ## Project Overview
 
-FunctionalTreat is a console-based Python application designed to perform statistical analysis and data transformation on numerical datasets.
+FunctionalTreat is a console-based Python application built to perform statistical analysis and transformation on numerical datasets.
 
-The project demonstrates structured programming, functional concepts, recursion, and the practical use of Python’s built-in functions within a menu-driven architecture.
+The system applies functional programming concepts such as recursion, lambda expressions, modular function design, and dynamic filtering within a structured, menu-driven interface.
 
-It focuses on applying analytical logic to one-dimensional data collections in an interactive environment.
+It focuses on analytical processing of one-dimensional data collections in an interactive environment.
 
 ---
 
-## Purpose
+## Objective
 
-The primary objective of this project is to strengthen understanding of:
+This project demonstrates:
 
-* Function-based program design
-* Recursion
-* Lambda expressions
-* Data filtering techniques
-* Sorting mechanisms
-* Built-in statistical operations
-* Returning multiple values from functions
-* Menu-driven system structure
-
-This project reflects a deeper transition from basic scripting to structured and modular programming.
+* Structured function-based program design
+* Recursive logic implementation
+* Data filtering and transformation
+* Built-in statistical computation
+* Modular architecture in a console application
 
 ---
 
 ## Core Functionalities
 
-### 1. Data Input
+### Data Input
 
 * Accepts user-defined numerical values
-* Stores data in a structured list format
+* Stores and manages data using list structures
 
-### 2. Data Summary
+### Statistical Summary
 
-* Calculates:
+Calculates:
 
-  * Total number of elements
-  * Minimum value
-  * Maximum value
-  * Sum of values
-  * Average
+* Total number of elements
+* Minimum and maximum values
+* Sum of dataset
+* Average value
 
-### 3. Factorial Calculation
+### Recursive Computation
 
-* Implements recursion
-* Demonstrates function self-calling mechanism
+* Implements factorial using recursion
+* Demonstrates self-calling function logic
 
-### 4. Data Filtering
+### Data Filtering
 
-* Filters values based on a threshold
-* Uses lambda expressions for dynamic condition evaluation
+* Filters values based on threshold conditions
+* Uses lambda expressions for dynamic evaluation
 
-### 5. Data Sorting
+### Data Sorting
 
-* Supports ascending and descending order sorting
-* Demonstrates use of built-in sorting logic
+* Supports ascending and descending sorting
+* Applies built-in sorting mechanisms
 
-### 6. Records Statistics
+### Modular Statistics Return
 
-* Returns multiple computed values
-* Highlights modular function design
+* Returns multiple computed metrics
+* Demonstrates clean separation of analytical logic
 
-### 7. Exit System
+### Exit System
 
-* Provides controlled program termination
+* Controlled program termination
 
 ---
 
-## Technical Concepts Applied
+## Technical Implementation
 
-* Modular function design
+* Modular function architecture
 * Recursion
-* Lambda functions
+* Lambda expressions
 * List comprehensions
 * Built-in aggregation functions (`sum`, `min`, `max`, `len`)
-* Sorting mechanisms
-* Global variable management
-* Interactive console navigation
+* Sorting methods
+* Menu-driven console interface
 
 ---
 
-## Project Significance
+## Analytical Highlights
 
-FunctionalTreat showcases the application of functional programming principles in a structured environment.
-
-It demonstrates:
-
-* Analytical thinking
-* Logical structuring
-* Clean function separation
-* Reusability of components
-* Menu-driven system implementation
-
-This project is suitable for academic learning, algorithm practice, and foundational portfolio presentation.
+* Demonstrates logical data processing
+* Applies functional programming concepts
+* Separates computation from presentation logic
+* Encourages reusable and extendable function design
 
 ---
 
-## Future Enhancements
+## Potential Enhancements
 
-The project can be enhanced by:
-
-* Adding input validation and exception handling
-* Supporting floating-point datasets
-* Implementing advanced statistical metrics
-* Persisting data to external storage
-* Converting into a GUI-based analytical tool
-* Structuring into a fully modular application with separate modules
+* Add input validation and exception handling
+* Include advanced statistical metrics (variance, standard deviation)
+* Support floating-point datasets
+* Enable data persistence
+* Convert into GUI or web-based analytics tool
+* Modularize into separate Python files
 
 ---
 
 ## Author
 
-Developed as part of continuous learning and practical implementation of functional programming concepts in Python.
+Rajvi Trivedi
+Data Analyst | Business Analyst
 
 ---
 
